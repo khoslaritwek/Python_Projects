@@ -10,9 +10,11 @@ def timeAndDate():
     return time.asctime( time.localtime(time.time()) )
 
 
+
 def IsTimeQuestion(text):
     if re.search(".*time.*|.*date.*|.*year.*",text):
         print ( "Bot :" + timeAndDate())
+        
         
 
 def IsAboutMe(text):
@@ -22,6 +24,7 @@ def IsAboutMe(text):
         print ("Bot : Someone with alots of time created me ")
     if re.search(".*sing.*|.*song.*", text):
         print ("Bot: I am a baaad  guuuy Duh!!")
+        
         
 
 def Speech2Text():
