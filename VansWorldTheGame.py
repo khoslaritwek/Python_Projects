@@ -2,7 +2,19 @@ import pygame as pg
 import os
 import numpy as np
 import random
-import re 
+import re
+
+def PlayerMovement(xPos, yPos, xInc, yInc, screen1, model):
+    screen1.fill((0,0,0), rect=(4,600,1278,688))
+    if xPos + xInc <= 1280:
+        xPos = xPos + xInc
+    if yPos + yInc <= 720:
+        yPos = yPos + yInc
+
+    
+    PlayerSwapn(model, xPos, yPos, screen1)
+    return xPos, yPos
+
 
 def PlayerSwapn(modelToLoad, xLoc, yLoc, screen1):
     assetList = os.listdir('assets-player')
@@ -13,7 +25,6 @@ def PlayerSwapn(modelToLoad, xLoc, yLoc, screen1):
             path = os.path.join('assets-player',mem)
             img = pg.image.load(path)
             screen1.blit(img, (xLoc, yLoc))
-            print ('here')
             
 
     
@@ -54,19 +65,30 @@ def PlayGame():
     #sets up intial player environment
     IntialSenceSetup(screen1)
     
+    
+    xPos = 0
+    yPos = 650
     # swapn player charactere
-    PlayerSwapn('mega', 0, 650, screen1)
+    PlayerSwapn('mega', xPos, yPos, screen1)
     
     while True:
         closingFlag = False
         for event in pg.event.get():
             print(event)
+            xInc = 0
+            yInc = 0
+            
             if event.type == pg.QUIT:
                 pg.quit()
                 closingFlag = True
                 break
+            if event.type == pg.KEYDOWN:
+                if event.key == pg.K_LEFT or event.key == ord('a'):
+                    xInc = -15
+                if event.key == pg.K_RIGHT or event.key == ord('d'):
+                    xInc = +15 
 
-                        
+            xPos, yPos = PlayerMovement(xPos, yPos, xInc, yInc, screen1, 'mega')          
             pg.display.update()
             
         if closingFlag == True:
