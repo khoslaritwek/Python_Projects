@@ -3,6 +3,18 @@ import os
 import numpy as np
 import random
 import re
+import time
+
+def delay(count):
+    count = count * 100
+    i = 0
+    while i < count:
+        i =  i + 1
+
+
+def Attack(xPos, yPos, screen1):
+    screen1.fill((0,0,0), rect=(xPos,0,xPos + 5,170))
+    
 
 def PlayerMovement(xPos, yPos, xInc, yInc, screen1, model):
     screen1.fill((0,0,0), rect=(4,600,1278,688))
@@ -87,8 +99,11 @@ def PlayGame():
                     xInc = -15
                 if event.key == pg.K_RIGHT or event.key == ord('d'):
                     xInc = +15 
-
-            xPos, yPos = PlayerMovement(xPos, yPos, xInc, yInc, screen1, 'mega')          
+        
+            
+            if event.type == pg.MOUSEBUTTONUP:
+                Attack(xPos, yPos, screen1)
+            xPos, yPos = PlayerMovement(xPos, yPos, xInc, yInc, screen1, 'mega')
             pg.display.update()
             
         if closingFlag == True:
