@@ -1,0 +1,221 @@
+Hi User, bringing you Todays market Analysis 
+Top Ten stocks by % gain  are :
+           SYMBOL SERIES     OPEN  ...  Unnamed: 13  MAX_DAILY_GAIN  GAIN_PERCENTAGE
+890         JNPT     N1  1003.20  ...          NaN          376.79        37.558812
+582     GOLDBEES     EQ    38.70  ...          NaN            6.02        15.555556
+348    CYBERTECH     EQ    49.60  ...          NaN            7.60        15.322581
+752       IFBIND     EQ   482.00  ...          NaN           70.45        14.616183
+728   ICICINIFTY     EQ   106.10  ...          NaN           14.13        13.317625
+536      GAYAHWS     BE     0.40  ...          NaN            0.05        12.500000
+906   JUNIORBEES     EQ   251.20  ...          NaN           31.31        12.464172
+354   DAMODARIND     EQ    23.25  ...          NaN            2.60        11.182796
+1075    MANGALAM     EQ   119.70  ...          NaN           12.60        10.526316
+329   CORALFINAC     EQ    18.20  ...          NaN            1.90        10.439560
+
+[10 rows x 16 columns]
+
+========================================================
+
+On the other hand the 10 worst performing stocks by % gain are
+          SYMBOL SERIES     OPEN  ...  Unnamed: 13  MAX_DAILY_GAIN  GAIN_PERCENTAGE
+401     DNAMEDIA     EQ     0.60  ...          NaN           -0.05        -8.333333
+233   BLBLIMITED     EQ     6.80  ...          NaN           -0.60        -8.823529
+1695   STEELCITY     EQ    37.90  ...          NaN           -3.35        -8.839050
+1959       WORTH     EQ    53.00  ...          NaN           -4.70        -8.867925
+1236       NKIND     EQ    22.30  ...          NaN           -2.10        -9.417040
+1886        UVSL     EQ     0.50  ...          NaN           -0.05       -10.000000
+1248        NTPC     N4  1339.00  ...          NaN         -141.00       -10.530246
+427    EBIXFOREX     EQ   498.75  ...          NaN          -54.45       -10.917293
+1705   SUJANAUNI     BE     0.35  ...          NaN           -0.05       -14.285714
+1910     VIJIFIN     EQ     0.60  ...          NaN           -0.10       -16.666667
+
+[10 rows x 16 columns]
+******************************************************************************
+
+Top 10 stocks by profit gained are as follows:
+          SYMBOL SERIES      OPEN  ...  Unnamed: 13  MAX_DAILY_GAIN  GAIN_PERCENTAGE
+1227    NIFTYEES     EQ  14050.00  ...          NaN          934.00         6.647687
+397        DIXON     EQ   8165.45  ...          NaN          421.05         5.156482
+890         JNPT     N1   1003.20  ...          NaN          376.79        37.558812
+19    ABBOTINDIA     EQ  16200.00  ...          NaN          341.95         2.110802
+1939  WABCOINDIA     EQ   6585.10  ...          NaN          313.95         4.767581
+1008   LAXMIMACH     EQ   3372.60  ...          NaN          304.95         9.041985
+1088      MARUTI     EQ   6985.00  ...          NaN          205.10         2.936292
+142     ASTRAZEN     EQ   3680.00  ...          NaN          189.00         5.135870
+1150         MRF     EQ  58250.00  ...          NaN          175.40         0.301116
+505      FINEORG     EQ   2455.00  ...          NaN          165.70         6.749491
+
+[10 rows x 16 columns]
+
+========================================================
+
+On the other hand the 10 worst performing stocks by profit earned  are
+          SYMBOL SERIES     OPEN  ...  Unnamed: 13  MAX_DAILY_GAIN  GAIN_PERCENTAGE
+1221   NHBTF2014     N6   7398.0  ...          NaN          -97.00        -1.311165
+257   BSLGOLDETF     EQ   4740.0  ...          NaN          -98.70        -2.082278
+183    BANARISUG     EQ   1467.0  ...          NaN         -106.90        -7.286980
+1751   TASTYBITE     EQ  11995.0  ...          NaN         -136.70        -1.139642
+1248        NTPC     N4   1339.0  ...          NaN         -141.00       -10.530246
+737     IDBIGOLD     EQ   4824.0  ...          NaN         -154.80        -3.208955
+680       HONAUT     EQ  32461.0  ...          NaN         -219.45        -0.676042
+1595    SHREECEM     EQ  20300.0  ...          NaN         -274.70        -1.353202
+3        3MINDIA     EQ  19999.0  ...          NaN         -349.45        -1.747337
+1291     PAGEIND     EQ  19163.0  ...          NaN         -659.45        -3.441267
+
+[10 rows x 16 columns]
+
+*****************************************************************************
+
+
+
+========================================================
+
+ 50 most traded share quatitywise are as follows 
+
+          SYMBOL SERIES     OPEN  ...  Unnamed: 13  MAX_DAILY_GAIN  GAIN_PERCENTAGE
+738         IDEA     EQ    11.30  ...          NaN            0.75         6.637168
+1764  TATAMOTORS     EQ   147.90  ...          NaN           -0.10        -0.067613
+1965     YESBANK     EQ    14.20  ...          NaN            0.05         0.352113
+808     INFRATEL     EQ   214.00  ...          NaN            0.85         0.397196
+133     ASHOKLEY     EQ    68.20  ...          NaN            1.60         2.346041
+1510        SBIN     EQ   210.00  ...          NaN           -3.40        -1.619048
+221         BHEL     EQ    38.95  ...          NaN           -0.25        -0.641849
+740   IDFCFIRSTB     EQ    31.25  ...          NaN            0.45         1.440000
+1966        ZEEL     EQ   215.40  ...          NaN            5.00         2.321263
+843          ITC     EQ   190.00  ...          NaN           -3.30        -1.736842
+188   BANKBARODA     EQ    46.70  ...          NaN           -0.80        -1.713062
+498   FEDERALBNK     EQ    54.00  ...          NaN           -0.15        -0.277778
+718    ICICIBANK     EQ   375.00  ...          NaN           -2.45        -0.653333
+1479        SAIL     EQ    40.80  ...          NaN           -0.30        -0.735294
+20     ABCAPITAL     EQ    70.15  ...          NaN            1.90         2.708482
+160     AXISBANK     EQ   469.00  ...          NaN          -13.80        -2.942431
+495    FCONSUMER     EQ    10.85  ...          NaN            0.05         0.460829
+220   BHARTIARTL     EQ   531.50  ...          NaN           -8.35        -1.571025
+1247        NTPC     EQ    96.05  ...          NaN           -1.35        -1.405518
+1734      SUZLON     EQ     3.35  ...          NaN            0.00         0.000000
+1765  TATAMTRDVR     EQ    53.10  ...          NaN            3.00         5.649718
+1411     RBLBANK     EQ   189.40  ...          NaN           -0.60        -0.316790
+803   INDUSINDBK     EQ   611.05  ...          NaN            5.10         0.834629
+895      JPPOWER     EQ     2.60  ...          NaN            0.05         1.923077
+185   BANDHANBNK     EQ   305.00  ...          NaN            9.45         3.098361
+1340         PNB     EQ    33.80  ...          NaN           -0.15        -0.443787
+1766   TATAPOWER     EQ    60.00  ...          NaN           -1.10        -1.833333
+620       GVKPIL     EQ     3.95  ...          NaN            0.00         0.000000
+660     HINDALCO     EQ   188.05  ...          NaN            0.25         0.132943
+1643   SOUTHBANK     EQ     7.30  ...          NaN            0.10         1.369863
+567     GMRINFRA     EQ    23.50  ...          NaN            0.25         1.063830
+522         GAIL     EQ    96.95  ...          NaN            1.10         1.134605
+1426    RELIANCE     EQ  2083.55  ...          NaN           -6.30        -0.302369
+1653    SPICEJET     EQ    51.50  ...          NaN            2.20         4.271845
+874   JINDALSTEL     EQ   216.95  ...          NaN           -6.30        -2.903895
+1269        ONGC     EQ    78.55  ...          NaN           -0.65        -0.827498
+821          IOC     EQ    84.00  ...          NaN           -0.10        -0.119048
+1717   SUNPHARMA     EQ   518.00  ...          NaN           -5.55        -1.071429
+226       BIOCON     EQ   421.70  ...          NaN           -0.75        -0.177852
+638     HDFCBANK     EQ  1110.00  ...          NaN            9.30         0.837838
+1899        VEDL     EQ   127.10  ...          NaN           -1.15        -0.904799
+859    JAMNAAUTO     EQ    43.00  ...          NaN            4.20         9.767442
+1587   SHILPAMED     EQ   510.45  ...          NaN           -0.05        -0.009795
+1956       WIPRO     EQ   278.70  ...          NaN           -2.70        -0.968784
+75      ALOKINDS     EQ    30.70  ...          NaN            0.00         0.000000
+1767   TATASTEEL     EQ   428.10  ...          NaN           -6.80        -1.588414
+702   IBULHSGFIN     EQ   195.00  ...          NaN           -2.25        -1.153846
+398          DLF     EQ   156.00  ...          NaN           -1.15        -0.737179
+1414      RECLTD     EQ   111.00  ...          NaN           -1.05        -0.945946
+591     GRANULES     EQ   320.00  ...          NaN           26.65         8.328125
+
+[50 rows x 16 columns]
+
+*****************************************************************************
+
+The Analysis of your choosen shares is as follows:
+SYMBOL                 RELIANCE
+SERIES                       EQ
+OPEN                    2083.55
+HIGH                    2096.95
+LOW                      2072.2
+CLOSE                   2077.25
+LAST                       2080
+PREVCLOSE                2112.1
+TOTTRDQTY              13141705
+TOTTRDVAL           2.73969e+10
+TIMESTAMP           04-SEP-2020
+TOTALTRADES              365456
+ISIN               INE002A01018
+Unnamed: 13                 NaN
+MAX_DAILY_GAIN             -6.3
+GAIN_PERCENTAGE       -0.302369
+Name: 1426, dtype: object
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SYMBOL                   INDOCO
+SERIES                       EQ
+OPEN                     218.45
+HIGH                        223
+LOW                         215
+CLOSE                     219.1
+LAST                        217
+PREVCLOSE                 220.3
+TOTTRDQTY                147889
+TOTTRDVAL           3.25779e+07
+TIMESTAMP           04-SEP-2020
+TOTALTRADES                3406
+ISIN               INE873D01024
+Unnamed: 13                 NaN
+MAX_DAILY_GAIN             0.65
+GAIN_PERCENTAGE        0.297551
+Name: 792, dtype: object
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SYMBOL                      PPL
+SERIES                       EQ
+OPEN                       74.8
+HIGH                      76.75
+LOW                        74.8
+CLOSE                      75.4
+LAST                      75.05
+PREVCLOSE                 76.75
+TOTTRDQTY                 24721
+TOTTRDVAL           1.86988e+06
+TIMESTAMP           04-SEP-2020
+TOTALTRADES                 442
+ISIN               INE050001010
+Unnamed: 13                 NaN
+MAX_DAILY_GAIN              0.6
+GAIN_PERCENTAGE        0.802139
+Name: 1356, dtype: object
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SYMBOL                    WIPRO
+SERIES                       EQ
+OPEN                      278.7
+HIGH                      279.5
+LOW                       275.1
+CLOSE                       276
+LAST                      276.7
+PREVCLOSE                282.85
+TOTTRDQTY              10707714
+TOTTRDVAL           2.96701e+09
+TIMESTAMP           04-SEP-2020
+TOTALTRADES               74821
+ISIN               INE075A01022
+Unnamed: 13                 NaN
+MAX_DAILY_GAIN             -2.7
+GAIN_PERCENTAGE       -0.968784
+Name: 1956, dtype: object
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SYMBOL                      TCS
+SERIES                       EQ
+OPEN                       2275
+HIGH                    2324.25
+LOW                     2262.95
+CLOSE                    2288.8
+LAST                    2297.65
+PREVCLOSE                2299.5
+TOTTRDQTY               5232180
+TOTTRDVAL           1.20097e+10
+TIMESTAMP           04-SEP-2020
+TOTALTRADES              177219
+ISIN               INE467B01029
+Unnamed: 13                 NaN
+MAX_DAILY_GAIN             13.8
+GAIN_PERCENTAGE        0.606593
+Name: 1784, dtype: object
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
